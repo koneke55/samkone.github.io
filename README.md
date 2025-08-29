@@ -97,7 +97,7 @@
   <header>
     <img src="profile.jpg" alt="Profile Picture">
     <h1>Sambou KONE</h1>
-    <p>Graduate in Machine Learning & Deep Learning | Researcher in LLMs</p>
+    <p>Graduate in Computer Science & Electronics Engineering | Researcher in AI ~ Machine Learning ~ Deep Learning </p>
     <p>Bamako, Mali | <a href="mailto:samboukone99@gmail.com">samboukone99@gmail.com</a></p>
     <a href="Academic CV-Sambou.docx.pdf" class="cv-button" download>📄 Download CV</a>
   </header>
@@ -116,7 +116,7 @@
     <p>
       Graduate specializing in Machine Learning and Deep Learning with a focus on Large Language Models. 
       Skilled in fine-tuning and enhancing reasoning in transformer-based architectures, with strong motivation 
-      to pursue a Direct PhD advancing Deep Learning / LLMs research.
+      to pursue a Direct PhD advancing Deep Learning / Cognitive Neural Network Applications.
     </p>
   </section>
 
@@ -140,10 +140,12 @@
   </section>
 
   <section id="publications">
-    <h2>Publications & Conferences</h2>
+    <h2>Publications / Presentations & Conferences</h2>
     <ul>
       <li>“Smart Battery Management System for Portable Devices Based on Machine Learning” (IJIRT, 2024).</li>
       <li>“Electronics And Communication Engineering - 2030” – Presented at Avalanche Club, Jain University, 2023.</li>
+       <li>“Human Voice Recognition System using FeedForward Neural Network” Presented at Dept. of Computer Engineering at ENI-ABT, Bamako, Mali, 2022 </li>
+       <li>“Big Data Batch Processing Technics On Apache Flink Framwork” Presented at Dept. of Computer Engineering at ENI-ABT, Bamako, Mali, 2021 </li>
     </ul>
   </section>
 
