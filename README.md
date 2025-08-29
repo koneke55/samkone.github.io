@@ -99,7 +99,7 @@
     <h1>Sambou KONE</h1>
     <p>Graduate in Machine Learning & Deep Learning | Researcher in LLMs</p>
     <p>Bamako, Mali | <a href="mailto:samboukone99@gmail.com">samboukone99@gmail.com</a></p>
-    <a href="Academic CV-Sambou.pdf" class="cv-button" download>📄 Download CV</a>
+    <a href="Academic CV-Sambou.docx.pdf" class="cv-button" download>📄 Download CV</a>
   </header>
 
   <nav>
