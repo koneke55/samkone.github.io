@@ -123,8 +123,8 @@
   <section id="education">
     <h2>Education</h2>
     <ul>
-      <li><b>BTech Electronics & Communication</b>, Jain University Bangalore (2020–2024) – Topper (4.55/5.0). Final Project: Smart Battery Management Systems using Deep Learning.</li>
-      <li><b>Master 1 Computer Science</b>, ENI ABT Bamako (2019–2020) – Topper. Final Project: Human Voice Recognition System using Neural Networks.</li>
+      <li><b>BTech Electronics & Communication</b>, Jain University Bangalore (2020–2024) – First Class Honor ~ Topper (4.55/5.0). Final Project: Smart Battery Management Systems using Deep Learning.</li>
+      <li><b>Master 1 Computer Science</b>, ENI ABT Bamako (2019–2020) – First ~ Class Honor Topper. Final Project: Human Voice Recognition System using Neural Networks.</li>
       <li><b>Bachelor of Computer Science</b>, ENI ABT Bamako (2016–2019). Final Project: Student Management System Website (PHP/JS/Bootstrap).</li>
     </ul>
   </section>
@@ -152,8 +152,8 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li><b>Technical:</b> Deep Learning, LLMs, Transformer Models, TensorFlow, PyTorch, Data Annotation, RAG, RLHF, Privacy & Bias Mitigation.</li>
-      <li><b>Programming:</b> Python, SQL, PHP, Java, Linux.</li>
+      <li><b>Technical:</b> Deep Learning, LLMs, n8n Automation, Transformer Models, TensorFlow, PyTorch, Data Annotation, RAG, RLHF, Privacy & Bias Mitigation.</li>
+      <li><b>Programming:</b> Python, SQL, PHP, Java, Linux</li>
       <li><b>Languages:</b> English & French (bilingual); Arabic & Hindi (fluent); Spanish (conversational).</li>
     </ul>
   </section>
