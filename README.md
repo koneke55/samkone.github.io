@@ -152,8 +152,8 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li><b>Technical:</b> Deep Learning, LLMs, n8n Automation, Transformer Models, TensorFlow, PyTorch, Data Annotation, RAG, RLHF, Privacy & Bias Mitigation.</li>
-      <li><b>Programming:</b> Python, SQL, PHP, Java, Linux</li>
+      <li><b>Technical:</b> Deep Learning, LLMs, n8n Automation, Transformer Models, Linux, Computer Vision, RAG, RLHF, Privacy & Bias Mitigation.</li>
+      <li><b>Programming:</b> Python, SQL, Java, TensorFlow, Scikit-Learn, Hugging Face<, LangChain/li>
       <li><b>Languages:</b> English & French (bilingual); Arabic & Hindi (fluent); Spanish (conversational).</li>
     </ul>
   </section>
