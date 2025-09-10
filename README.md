@@ -145,6 +145,7 @@
       <li>“Smart Battery Management System for Portable Devices Based on Machine Learning” International Journal of Innovative Research in Technology (IJIRT), 2024.</li>
       <li>“Electronics And Communication Engineering - 2030” – Presented at Avalanche Club, Jain University, 2023.</li>
        <li>“Human Voice Recognition System using FeedForward Neural Network” Presented at Dept. of Computer Engineering at ENI-ABT, Bamako, Mali, 2022 </li>
+        <li>‘COTTON WOOL DETECTION FOR DIABETIC RETHINOPATHY’, april 24, Minor Project Research at ECE department </li>
        <li>“Big Data Batch Processing Technics On Apache Flink Framwork” Presented at Dept. of Computer Engineering at ENI-ABT, Bamako, Mali, 2021 </li>
     </ul>
   </section>
